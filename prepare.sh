@@ -1,2 +1,2 @@
-rm -rf .git* cleanup.sh
+rm -rf .git* prepare.sh
 npm update
