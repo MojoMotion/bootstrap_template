@@ -1,1 +1,7 @@
 @use "custom" as *;
+
+@use "sections/navbar"
+@use "sections/body"
+@use "sections/footer"
+
+@use "components/pouet"
